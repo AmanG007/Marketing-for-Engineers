@@ -388,6 +388,7 @@ Guides on promoting and advertising on Reddit:
 * [SnoopSnoo](https://snoopsnoo.com/) provides Reddit user and subreddits analytics.
 * [RedditList](http://redditlist.com/) is useful for digging up worthwhile subreddits.
 * [Reddit converter](http://vyper.io/reddit_converter/) converts your text (blog post) to Reddit markdown.
+* [Developers Nation](http://www.developersnation.co.in/) Helps you to make great single page websites. 
 
 ### 👽 LinkedIn
 I want to tell you a secret: HRs is not the only people who use LinkedIn. With this platform you can build business partnerships, network online, make direct sales and search for investors. LinkedIn is a perfect place for B2B companies and 👔 business professionals. It's also useful for self-branding. For the promotional purpose, LinkedIn has Personal Pages, Company Pages, Groups, and Ads.
@@ -588,6 +589,7 @@ Guides on analytics:
 * [The Side Project Marketing Checklist](https://www.sideprojectchecklist.com/marketing-checklist/) is a comprehensive, chronologically ordered list of marketing tactics and ideas that you can try with your next side project. The list was created by a developer, and is [free and open source](https://github.com/karllhughes/side-project-marketing).
 * [Marketing for App Developers](https://speakerdeck.com/limedaring/release-notes-2017) is a thorough iOS app marketing deck, given at Release Notes 2017, chock-full of references. Includes competitive analysis, content marketing, ASO resources. From designer and marketer Tracy Osborn.
 * [THE BAMF BIBLE](https://drive.google.com/file/d/0B4GUMxzn_rEMSElrR0JtamVHQjQ/view) is the complete recipe book of growth hacks (300+ pages of how-to tactics) from Josh Fechter & community. It covers marketing tips for Facebook, LinkedIn, Quora, Instagram, Twitter, YouTube, Content Marketing, Cold Emails, Backlinks and much-much more!
+* [HTML Tutorail](http://www.developersnation.co.in/tutorials/html/) If you learn html basics it will hepl you to makeing great content. 
 * [MAKE](https://makebook.io) is the book on bootstrapping your startup the indie way from Pieter Levels – the creator of Nomad List. It's basically an imprint of his experiences creating his products from the past several years. Most of the book content is very practical and approachable, aimed to try things yourself.
 * [The Four Steps to the Epiphany](https://web.stanford.edu/group/e145/cgi-bin/winter/drupal/upload/handouts/Four_Steps.pdf) or Successful Strategies for Products that Win by Steven Blank.
 * [Stripe Atlas guides](https://stripe.com/atlas/guides) to running an internet business.
